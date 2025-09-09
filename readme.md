@@ -3,7 +3,7 @@
 # workflows
 
 standard commit process
-edit file(s) -> add to stage -> commit  
+edit file(s) -> add to stage -> commit
 
 ## Commands
 ```
