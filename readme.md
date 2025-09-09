@@ -1,7 +1,7 @@
-Hello World
+# Hello World
 
 
-Commands
+## Commands
 ```
 git init                        # creates the repo
 git add <filename>              # add to the stage
