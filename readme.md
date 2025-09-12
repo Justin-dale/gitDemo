@@ -17,6 +17,7 @@ git checkout -b <branch>        # creates and checkout
 git checkout <branch>           # checkout target branch
 git status                      # i'm lost, i need an adult 
 git merge <target branch>         # merge target into current
+git pull <target branch>
 ```
 
 Actively using commands
